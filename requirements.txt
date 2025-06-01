@@ -1,0 +1,7 @@
+kagglehub
+datasets
+pandas
+requests
+beautifulsoup4
+boto3
+python-dotenv
